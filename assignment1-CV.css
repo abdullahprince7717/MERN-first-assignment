@@ -1,0 +1,70 @@
+table {
+
+    
+}
+
+h2,h4,h6{
+
+    margin-block-end: 1em;
+    padding: 0%;
+    margin: 0%;
+    border: 0ch;
+    
+}
+
+body{
+    margin: 20%;
+    margin-top: 5%;
+    align-content: center;
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 375;
+}
+
+img{
+
+    margin-bottom: 10%;
+
+}
+
+hr{
+
+    border: 3px solid violet ;
+    border-radius: 2px;
+    margin: 0%;
+}
+
+h3{
+
+    margin-bottom: 0%;
+}
+
+#td2{
+
+    padding-left: 130%;
+}
+
+#personaltable, #educationtable, #skillstable, #hobbiestable{
+
+    padding-left: 10%;
+
+}
+
+   
+h1, h2, h3, h4, h5 {
+    font-weight: 450;
+}
+
+#yeartd{
+
+    margin-left: 30%;
+    background-color: black;
+    color: white;
+    
+}
+
+#educationtable{
+
+    font-weight: 375;
+}
+
+
